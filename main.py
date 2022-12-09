@@ -1,5 +1,3 @@
-# Franciszek Szewczyk - s4652290
-
 from constants import *
 from arm import Arm
 from agent import Agent

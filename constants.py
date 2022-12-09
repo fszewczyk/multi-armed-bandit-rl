@@ -1,5 +1,3 @@
-# Franciszek Szewczyk - s4652290
-
 from enum import Enum
 
 EPSILON = 0.2

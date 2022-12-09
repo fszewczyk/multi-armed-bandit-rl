@@ -1,5 +1,3 @@
-# Franciszek Szewczyk - s4652290
-
 import random
 from constants import *
 
